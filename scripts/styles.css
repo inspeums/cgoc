@@ -154,8 +154,8 @@
   .ncard{border-radius:22px;padding:30px 26px;border:1px solid var(--line);background:var(--cream-2);position:relative;overflow:hidden;min-height:300px;display:flex;flex-direction:column}
   .ncard .num{font-family:'Plus Jakarta Sans';font-weight:800;font-size:40px;color:var(--green);opacity:.9}
   .ncard .top{display:flex;align-items:flex-start;justify-content:space-between}
-  .ncard .chip{width:42px;height:42px;border-radius:12px;background:#fff;display:grid;place-items:center;color:var(--green);border:1px solid var(--line)}
-  .ncard .chip svg{width:20px;height:20px}
+  .ncard .chip{width:10px;height: 10px;border-radius:2px;background:#fff;display:grid;place-items:center;color:var(--green);border:1px solid var(--line)}
+  .ncard .chip svg{width:5px;height:5px}
   .ncard h3{font-size:21px;font-weight:800;margin:24px 0 12px}
   .ncard p{font-size:14px;color:var(--muted);flex:1}
   .ncard .more{margin-top:18px;display:inline-flex;align-items:center;gap:8px;font-family:'Plus Jakarta Sans';font-weight:600;font-size:14px;color:var(--green)}
